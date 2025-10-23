@@ -12,7 +12,7 @@ These tools form an end-to-end, open-source VLSI design flow, spanning RTL synth
 
 ---
 
-# 🧠 Yosys – Open Source RTL Synthesis Tool
+# Yosys – Open Source RTL Synthesis Tool
 
 Yosys is an open-source RTL synthesis framework that plays a crucial role in digital design automation (EDA). It converts high-level hardware description language (HDL) code — typically **Verilog** — into **gate-level netlists** suitable for implementation in FPGAs or ASICs. Yosys is the foundation of the open-source hardware synthesis flow and is frequently used with tools like **OpenTimer, Netgen, Qrouter,** and **Magic**.
 
