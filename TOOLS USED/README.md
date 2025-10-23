@@ -100,7 +100,7 @@ Netlist Generation (write_verilog)
 
 ## Example:
 
-'''tcl
+```tcl
 # TCL Automation for Yosys Synthesis
 set DesignName "alu"
 set OutputDirectory "./output"
